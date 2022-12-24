@@ -1,0 +1,135 @@
+[
+    {
+        "himage": "./holiday/in-galaxy-s22-s901-412948-sm-s901ezgdinu-530964621.webp",
+        "hname": "Galaxy S22",
+        "hprice": "52999",
+        "hcutprice": "85999",
+        "hoffer": "50999",
+        "hvoucher": "2000",
+        "off": "23",
+        "id": 12  
+
+    },
+    {
+        "himage": "./holiday/in-galaxy-s20-fe-5g-g781-sm-g781bzggins-405304988.webp",
+        "hname": "Galaxy S20 FE 5G",
+        "hprice": "32999",
+        "hcutprice": "74999",
+        "hoffer": "31999",
+        "hvoucher": "1000",
+        "off": "24",
+        "id": 13
+
+    },
+    {
+        "himage": "./holiday/in-galaxy-s22-s901-412948-sm-s901ezgdinu-530964621.webp",
+        "hname": "Galaxy S22",
+        "hprice": "52999",
+        "hcutprice": "85999",
+        "hoffer": "50999",
+        "hvoucher": "2000",
+        "off": "23",
+        "id": 14
+
+    },
+    {
+        "himage": "./holiday/sm-f721blva.webp",
+        "hname": "Galaxy Z Flip4 (8GB | 128GB",
+        "hprice": "89999",
+        "hoffer": "80999",
+        "hvoucher": "9000",
+        "off": "52",
+        "id": 15
+
+    },
+    {
+        "himage": "./holiday/in-galaxy-s22-s901-412948-sm-s901ezgdinu-530964621.webp",
+        "hname": "Galaxy S22",
+        "hprice": "52999",
+        "hcutprice": "85999",
+        "hoffer": "50999",
+        "hvoucher": "2000",
+        "off": "23",
+        "id": 16
+
+    },
+    {
+        "himage": "./holiday/in-galaxy-z-flip3-f711-5g-sm-f711bzkainu-474119038.webp",
+        "hname": "Galaxy Z Flip4 (8GB | 128GB",
+        "hprice": "59999",
+        "hcutprice": "795999",
+        "hoffer": "57999",
+        "hvoucher": "2000",
+        "off": "53",
+        "id": 17
+
+    },
+    {
+        "himage": "./holiday/in-side-by-side-rs74r5101sl-rs74r5101sl-tl-frontsilver-155205068.webp",
+        "hname": "Side by Side Refrigerator",
+        "hprice": "100000",
+        "hcutprice": "145990",
+        "hoffer": "83500",
+        "hvoucher": "16500",
+        "off": "13",
+        "id": 18
+
+    },
+    {
+        "himage": "./holiday/in-rf9000ac-non-dispenser-fdr-with-triple-cooling-rf70a90t0sl-tl-512948516.webp",
+        "hname": "705L Dual Flex Zone French Door Refrigerator RF70A90T0SL",
+        "hprice": "161500",
+        "hcutprice": "214990",
+        "hoffer": "151500",
+        "hvoucher": "10000",
+        "off": "23",
+        "id": 19
+
+    },
+    {
+        "himage": "./holiday/in-side-by-side-rs74r5101sl-rs74r5101sl-tl-frontsilver-155205068.webp",
+        "hname": "Side by Side Refrigerator",
+        "hprice": "100000",
+        "hcutprice": "145990",
+        "hoffer": "83500",
+        "hvoucher": "16500",
+        "off": "13",
+        "id": 20
+
+    },
+    {
+        "himage": "./holiday/in-side-by-side-rs74r5101sl-rs74r5101sl-tl-frontsilver-155205068.webp",
+        "hname": "Side by Side Refrigerator",
+        "hprice": "100000",
+        "hcutprice": "145990",
+        "hoffer": "83500",
+        "hvoucher": "16500",
+        "off": "13",
+        "id": 22
+
+    },
+    {
+        "himage": "./holiday/in-front-loading-washer-ww10t604clhs4-ww90t604dln-tl-383418576.webp",
+        "hname": "9.0 kg Ecobubble™ Front Load Washing Machine",
+        "hprice": "46500",
+        "hcutprice": "61500",
+        "hoffer": "33700",
+        "hvoucher": "10800",
+        "off": "16",
+        "id": 23
+
+    },
+    {
+        "himage": "./holiday/in-combo-wd80t604dbxtlnon-auto-dispense-wd80t604dbx-tl-383418765.webp",
+        "hname": "Fully Automatic Front Load Washing Machine",
+        "hprice": "56500",
+        "hcutprice": "73000",
+        "hoffer": "41600",
+        "hvoucher": "14900",
+        "off": "27",
+        "id": 24
+
+    }
+    
+    
+]

@@ -1,0 +1,29 @@
+
+.catagory-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 123px;
+    height: 100px;
+    padding: 6px 0px;
+    margin: 6px auto;
+    cursor: pointer;
+}
+.catagory-container:hover .catagory-items-name{
+    margin-top: 11px;
+
+}
+.catagory-items-image{
+    max-width: 54px;
+}
+
+.catagory-items-name{
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 15px;
+    padding-bottom: 6px;
+    transition: .2s;
+}
+.catagory-items-name:hover{
+    border-bottom: 4px solid black;
+}

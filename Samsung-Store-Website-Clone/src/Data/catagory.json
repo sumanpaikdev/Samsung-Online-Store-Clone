@@ -1,0 +1,57 @@
+[
+    {
+        "id": 10,
+        "catName": "Featured Deals",
+        "catLogo": "./shopCatagory/star.png"
+    },
+    {
+        "id": 20,
+        "catName": "Buy More Save More",
+        "catLogo": "./shopCatagory/gift-box.png"
+    },
+    {
+        "id": 30,
+        "catName": "Mobiles",
+        "catLogo": "./shopCatagory/smartphone.png"
+    },
+    {
+        "id": 40,
+        "catName": "Television",
+        "catLogo": "./shopCatagory/tv.png"
+    },
+    {
+        "id": 50,
+        "catName": "Refrigerators",
+        "catLogo": "./shopCatagory/refrigerator.png"
+    },
+    {
+        "id": 60,
+        "catName": "Washing Mashines",
+        "catLogo": "./shopCatagory/washing-machine.png"
+    },
+    {
+        "id": 70,
+        "catName": "Air Conditioners",
+        "catLogo": "./shopCatagory/air-conditioner.png"
+    },
+    {
+        "id": 80,
+        "catName": "Tablets & Wearables",
+        "catLogo": "./shopCatagory/device.png"
+    },
+    {
+        "id": 90,
+        "catName": "Laptops & Monitors",
+        "catLogo": "./shopCatagory/monitor.png"
+    },
+    {
+        "id": 100,
+        "catName": "Kitchen Care",
+        "catLogo": "./shopCatagory/microwave-oven.png"
+    },
+    {
+        "id": 110,
+        "catName": "Accessories",
+        "catLogo": "./shopCatagory/gadget.png"
+    }
+]
